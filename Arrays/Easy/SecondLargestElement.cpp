@@ -1,3 +1,10 @@
+/*
+Problem: Second Largest Element in an Array
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+*/
+
 #include <iostream>
 #include <vector>
 using namespace std;
