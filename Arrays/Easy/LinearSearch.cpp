@@ -1,5 +1,5 @@
 /*
-Problem: Remove duplicates in sorted array
+Problem: Linear search
 
 Time Complexity: O(n)
 Space Complexity: O(1)

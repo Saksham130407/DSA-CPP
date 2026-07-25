@@ -1,5 +1,5 @@
 /*
-Problem: Remove duplicates in sorted array
+Problem: Union of two sorted array 
 
 Time Complexity: O(n)
 Space Complexity: O(1)
